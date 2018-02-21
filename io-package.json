@@ -1,0 +1,37 @@
+{
+  "common": {
+    "name": "vr200",
+    "version": "0.0.1",
+    "title": "Vorwerk VR200 Adapter",
+    "desc": {
+      "en": "ioBroker Vorwerk VR200 Adapter",
+      "de": "ioBroker Vorwerk VR200 Adapter",
+      "ru": "ioBroker Vorwerk VR200 драйвер как образец"
+    },
+    "authors": [
+      "Eisbaeeer <eisbaeeer@gmail.com>"
+    ],
+    "platform": "Javascript/Node.js",
+    "mode": "daemon",
+    "icon": "VR200.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/Eisbaeeer/ioBroker.vr200/master/admin/VR200.png",
+    "keywords": [
+      "botvac",
+      "neato"
+    ],
+    "readme": "https://github.com/Eisbaeeer/ioBroker.vr200/blob/master/README.md",
+    "loglevel": "info",
+    "type": "household",
+    "restartAdapters": [
+      "vis"
+    ]
+  },
+  "native": {
+    "mail": null,
+    "password": null,
+    "pollInterval": 60
+  },
+  "objects": [
+  ]
+}
