@@ -17,8 +17,8 @@
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/Eisbaeeer/ioBroker.vr200/master/admin/VR200.png",
     "keywords": [
-      "botvac",
-      "neato"
+      "Vorwerk",
+      "VR200"
     ],
     "readme": "https://github.com/Eisbaeeer/ioBroker.vr200/blob/master/README.md",
     "loglevel": "info",

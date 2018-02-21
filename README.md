@@ -1,7 +1,8 @@
 ![Logo](admin/VR200.png)
 # ioBroker.vr200
-This is a full fork of botvac adapter. Only difference is to use the corrosponding node-kobold module.
-Im not the Author of the adapter. The full respect is giving to Pmant.
+This is a full fork of botvac adapter. Only difference is to use the corrosponding node-kobold module from nicoh88.
+Im not the author of the adapter. I only changed some things to get the VR200 running as adapter.   
+The full respect is giving to Pmant and nicoh88.
 
 ## Installation
 - Install the adapter
