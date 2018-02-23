@@ -1,5 +1,10 @@
 ![Logo](admin/VR200.png)
 # ioBroker.vr200
+[![NPM version](http://img.shields.io/npm/v/iobroker.vr200.svg)](https://www.npmjs.com/package/iobroker.vr200)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.vr200.svg)](https://www.npmjs.com/package/iobroker.vr200)
+[![Travis-CI](https://travis-ci.org/Eisbaeeer/ioBroker.vr200.svg?branch=master)](https://www.travis-ci.org/Eisbaeeer/ioBroker.vr200)   
+[![NPM](https://nodei.co/npm/iobroker.vr200.png?downloads=true)](https://nodei.co/npm/iobroker.vr200/)
+
 This is a full fork of botvac adapter. Only difference is to use the corrosponding node-kobold module from nicoh88.
 Im not the author of the adapter. I only changed some things to get the VR200 running as adapter.   
 The full respect is giving to Pmant and nicoh88.
@@ -35,6 +40,8 @@ The full respect is giving to Pmant and nicoh88.
 
 ### 0.1.0
 - (Eisbaeeer) inital commit from Pmant´s adapter
+### 0.2.0
+- (Eisbaeeer) added Travis testing - no changes in code
 
 ## License
 The MIT License (MIT)
