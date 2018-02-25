@@ -42,6 +42,11 @@ The full respect is giving to Pmant and nicoh88.
 - (Eisbaeeer) inital commit from Pmant´s adapter
 ### 0.2.0
 - (Eisbaeeer) added Travis testing - no changes in code
+### 0.3.0
+- (Eisbaeeer) fixed issue #1 (status reachable)
+
+## Known issues
+- command eco mode not working
 
 ## License
 The MIT License (MIT)

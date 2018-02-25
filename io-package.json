@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "vr200",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "title": "Vorwerk VR200 Adapter",
     "desc": {
       "en": "ioBroker Vorwerk VR200 Adapter",
