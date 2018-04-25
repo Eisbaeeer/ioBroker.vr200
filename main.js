@@ -19,7 +19,7 @@ var pollInterval;
 var restartTimer;
 
 // adapter will be restarted automatically every time as the configuration changed, e.g system.adapter.vr200.0
-var adapter = utils.adapter('vr200');
+var adapter = utils.Adapter('vr200');
 
 // is called when adapter shuts down - callback has to be called under any circumstances!
 adapter.on('unload', function (callback) {
