@@ -44,9 +44,8 @@ The full respect is giving to Pmant and nicoh88.
 - (Eisbaeeer) added Travis testing - no changes in code
 ### 0.3.0
 - (Eisbaeeer) fixed issue #1 (status reachable)
-
-## Known issues
-- command eco mode not working
+### 1.0.0
+- no changes. Went to stable release.
 
 ## License
 The MIT License (MIT)
