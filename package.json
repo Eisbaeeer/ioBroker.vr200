@@ -23,7 +23,8 @@
     "url": "https://github.com/Eisbaeeer/ioBroker.vr200"
   },
   "dependencies": {
-    "node-kobold": "^0.1.0"
+    "node-kobold": "^0.1.0",
+    "@iobroker/adapter-core": "^1.0.3"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
@@ -36,8 +37,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-exec": "^3.0.0",
     "mocha": "^6.0.2",
-    "chai": "^4.1.2",
-    "@iobroker/adapter-core": "^1.0.3"
+    "chai": "^4.1.2"
   },
   "bugs": {
     "url": "https://github.com/Eisbaeeer/ioBroker.vr200/issues"
