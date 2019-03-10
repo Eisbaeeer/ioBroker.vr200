@@ -1,6 +1,6 @@
 ![Logo](admin/VR200.png)
 # ioBroker.vr200
-[![NPM version](http://img.shields.io/npm/v/iobroker.vr200.svg)](https://www.npmjs.com/package/iobroker.vr200)
+![Number of Installations](http://iobroker.live/badges/vr200-installed.svg) ![Number of Installations](http://iobroker.live/badges/vr200-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.vr200.svg)](https://www.npmjs.com/package/iobroker.vr200)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.vr200.svg)](https://www.npmjs.com/package/iobroker.vr200)
 [![Travis-CI](https://travis-ci.org/Eisbaeeer/ioBroker.vr200.svg?branch=master)](https://www.travis-ci.org/Eisbaeeer/ioBroker.vr200)   
 [![NPM](https://nodei.co/npm/iobroker.vr200.png?downloads=true)](https://nodei.co/npm/iobroker.vr200/)
@@ -39,7 +39,7 @@ The full respect is giving to Pmant and nicoh88.
 ## Changelog
 
 ### 0.1.0
-- (Eisbaeeer) inital commit from Pmant´s adapter
+- (Eisbaeeer) inital commit from Pmantï¿½s adapter
 ### 0.2.0
 - (Eisbaeeer) added Travis testing - no changes in code
 ### 0.3.0
