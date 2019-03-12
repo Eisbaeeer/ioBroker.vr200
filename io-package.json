@@ -11,6 +11,7 @@
     "authors": [
       "Eisbaeeer <eisbaeeer@gmail.com>"
     ],
+    "license": "MIT",
     "platform": "Javascript/Node.js",
     "mode": "daemon",
     "icon": "VR200.png",
