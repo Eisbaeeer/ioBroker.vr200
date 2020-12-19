@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vr200",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ioBroker Vorwerk VR200 Adapter",
   "author": {
     "name": "Eisbaeeer",
@@ -23,7 +23,7 @@
     "url": "https://github.com/Eisbaeeer/ioBroker.vr200"
   },
   "dependencies": {
-    "node-kobold": "^0.1.0",
+    "node-kobold": "^0.2.0",
     "@iobroker/adapter-core": "^1.0.3"
   },
   "devDependencies": {
