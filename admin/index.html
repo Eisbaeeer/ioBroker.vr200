@@ -35,7 +35,10 @@
         "on save adapter restarts with new config immediately": {
             "de": "Beim Speichern von Einstellungen der Adapter wird sofort neu gestartet.",
             "ru": "Сразу после сохранения настроек драйвер перезапуститься с новыми значениями"
-        }
+	},
+	"To obtain an API token refer to": {
+	    "de": "Um ein API-Token zu bekommen bitte folgendes machen:"
+	}
     };
 
     // the function loadSettings has to exist ...
@@ -82,11 +85,13 @@
     <p>
         <span class="translate">Email</span> <input class="value" id="mail"/><br>
         <span class="translate">Password</span> <input type="password" class="value" id="password"/><br>
+	<span class="translate">API-Token</span> <input class="value" id="apitoken"/><br>
         <span class="translate">Poll Interval (seconds)</span> <input type="number" class="value" min="60" step="1" id="pollInterval"/><br>
     </p>
 
     <p class="translate">on save adapter restarts with new config immediately</p>
 
-</div>
+    <p><span class="translate">To obtain an API token refer to</span> <a target="_blank" href="https://github.com/nicoh88/node-kobold#getting-a-token">https://github.com/nicoh88/node-kobold#getting-a-token</a></p>
 
+</div>
 </html>
