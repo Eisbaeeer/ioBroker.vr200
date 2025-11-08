@@ -23,6 +23,7 @@
     ],
     "readme": "https://github.com/Eisbaeeer/ioBroker.vr200/blob/master/README.md",
     "loglevel": "info",
+    "tier": 2,
     "type": "household",
     "restartAdapters": [
       "vis"
