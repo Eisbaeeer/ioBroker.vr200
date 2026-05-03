@@ -47,5 +47,7 @@ The full respect is giving to Pmant and nicoh88.
 ### 1.0.0
 - no changes. Went to stable release.
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 The MIT License (MIT)
