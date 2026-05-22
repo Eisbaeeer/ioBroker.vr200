@@ -26,6 +26,11 @@
     "type": "household",
     "restartAdapters": [
       "vis"
+    ],
+    "dependencies": [
+      {
+        "js-controller": ">=6.0.11"
+      }
     ]
   },
   "native": {
@@ -33,6 +38,5 @@
     "password": null,
     "pollInterval": 60
   },
-  "objects": [
-  ]
+  "objects": []
 }
