@@ -38,6 +38,10 @@ The full respect is giving to Pmant and nicoh88.
 
 ## Changelog
 
+
+### **WORK IN PROGRESS**
+- (ioBroker-Bot) Adapter requires js-controller >= 6.0.11 now.
+
 ### 0.1.0
 - (Eisbaeeer) inital commit from Pmant�s adapter
 ### 0.2.0
